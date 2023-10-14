@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Pong Game 🏓</title>
-</head>
 <body>
   <h1>Pong Game 🏓</h1>
   <p>Welcome to the Pong Game! 🎮 This is a simple Python implementation of the classic Pong game using the Turtle graphics library. In this game, you control two paddles to keep a ball bouncing between them. The objective is to score points by preventing the ball from passing your paddle. 🏆</p>
